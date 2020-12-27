@@ -1,0 +1,19 @@
+.Auditable{
+    width:90%;
+    margin-left: 5%;
+    margin-top: 2%;
+    background-color: #E7EAED;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 1px #E7EAED;
+    font-size: larger;
+    text-align: left;
+    padding: 3%;
+    height: 100px;
+
+}
+.auditable{
+    color: white;
+    margin-left: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}

@@ -1,0 +1,46 @@
+.vehicle{
+    width: 100vw;
+    height: 100vh;
+    
+}
+.Vehicles{
+    text-align: left;
+    margin-left: 3%;
+    display: inline;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+.v-containet{
+    width:90%;
+    margin-left: 5%;
+    margin-top: 2%;
+    background-color: #E7EAED;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 1px #E7EAED;
+    font-size: larger;
+}
+.v-nav{
+    height: 20%;
+    background-color: #9D0209;
+    padding-top: 3%;
+    text-align: left;
+}
+.btn-search{
+    margin-top: 2%;
+    height: 15%;
+    font-size: xx-large;
+    color: brown;
+}
+.search{
+    margin-top: 2%;
+    text-align: end;
+    width: 50%;
+    height: 15%;
+    font-size: xx-large;
+}
+.h-vehicle{
+    color: red;
+    font-size: xx-large;
+}

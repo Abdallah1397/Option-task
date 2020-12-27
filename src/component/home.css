@@ -1,0 +1,56 @@
+
+@media only screen and (min-width: 100px) and (max-width:768px)
+{
+
+}
+@media only screen and (min-width: 769px) and (max-width:979px)
+{
+    
+}
+@media only screen and (min-width: 980px)
+{
+    .home{
+        height: 100vh;
+        background-color: white;
+        width: 100vw;
+    }
+    .nav{
+        height: 20%;
+        background-color: #9D0209;
+        padding-top: 3%;
+    }
+    .audit{
+        text-align: left;
+        margin-left: 3%;
+        display: inline;
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+    .btn1{
+        width: 8%;
+        margin-bottom: 2%;
+        margin-left: 70%;
+        border-radius: 20px;
+    }
+    .mainAudit{
+        width:40%;
+        margin-left: 5%;
+        height: 280px;
+        display: inline-block;
+        margin-top: 1%;
+        background-color:#D32F2E;
+        opacity: .5;
+        color: white;
+        border-radius: 20px;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .mainAudit:hover{
+        opacity: 1;
+    }
+    .audit-name{
+        margin-top: 20%;
+        text-align: center;
+    }
+}

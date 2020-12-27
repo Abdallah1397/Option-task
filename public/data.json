@@ -1,0 +1,20 @@
+{
+    "homee":[
+        {
+          "id": 1,
+          "name": "Drivers"
+        },
+        {
+          "id": 2,
+          "name": "Vehicles"
+        },
+        {
+          "id": 3,
+          "name": "Supervisors"
+        },
+        {
+          "id": 4,
+          "name": "Garages"
+        }
+      ]
+}

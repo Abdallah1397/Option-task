@@ -1,0 +1,146 @@
+.container{
+    margin-top:10px;
+}
+@media only screen and (min-width: 100px) and (max-width:768px)
+{
+.login{
+        background-color: #E7EAED;
+        width: 90%;
+        margin-left: 5%;
+        border-radius: 20px;
+        box-shadow: 5px 10px 10px 10px #E7EAED;
+    }
+.mainLogin{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20%;
+    border-color: black;
+    box-sizing: 50px;
+}
+.Llabel{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    float: left;
+}
+.Iinput{
+    font-size: xx-large;
+    width: 98%;
+    margin-left: 1%;
+}
+.pssLabel{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    float: left;
+}
+.pssInput{
+    font-size: xx-large;
+    width: 98%;
+    margin-left: 1%;
+}
+.btn1{
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 98%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+    
+}
+
+}
+@media only screen and (min-width: 769px) and (max-width:979px)
+{
+    .login{
+        background-color: #E7EAED;
+        width: 90%;
+        margin-left: 5%;
+        border-radius: 20px;
+        box-shadow: 5px 10px 10px 10px #E7EAED;
+    }
+.mainLogin{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20%;
+    border-color: black;
+    box-sizing: 50px;
+}
+.Llabel{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    float: left;
+}
+.Iinput{
+    font-size: xx-large;
+    width: 98%;
+    margin-left: 1%;
+}
+.pssLabel{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    float: left;
+}
+.pssInput{
+    font-size: xx-large;
+    width: 98%;
+    margin-left: 1%;
+}
+.btn1{
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 98%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+    
+}  
+}
+@media only screen and (min-width: 980px)
+{
+    .login{
+        background-color: #E7EAED;
+        width: 100%;
+        border-radius: 20px;
+        box-shadow: 5px 10px 10px 10px #E7EAED;
+        align-items: center;
+        margin-left: 150%;
+
+    }
+.mainLogin{
+    width: 90%;
+    margin-left: 10%;
+    margin-top: 10%;
+    border-color: black;
+    box-sizing: 50px;
+}
+.Llabel{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    float: left;
+}
+.Iinput{
+    font-size: xx-large;
+    width: 98%;
+    margin-left: 1%;
+}
+.pssLabel{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    float: left;
+}
+.pssInput{
+    font-size: xx-large;
+    width: 98%;
+    margin-left: 1%;
+}
+.btn{
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 98%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+    
+}
+.error{
+    background-color: red;
+    color: white;
+    text-align: start;
+}
+}
